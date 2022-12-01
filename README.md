@@ -1,6 +1,6 @@
 - 👋 Hi, I’m HejiKaGH (Alp Hikmet Önde)
-- 👀 I’m interested in Ethical Hacking  
-- 🌱 I’m currently learning Kali Linux
+- 👀 I’m interested in Mobil Application Development  
+- 🌱 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
