@@ -2,7 +2,7 @@
 
 🔭 I’m learn Mobile Application Development 
 
-🖥️
+💻
 
 <!---
 HejiKaGH/HejiKaGH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
