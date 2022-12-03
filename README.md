@@ -1,6 +1,6 @@
                                                       Hi there I'm Hikmet 👋
 
-🔭 I’m learn Mobile Application Development 
+🔭 I’m learning Mobile Application Development 
 
 💻
 
