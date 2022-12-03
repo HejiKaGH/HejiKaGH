@@ -1,8 +1,6 @@
-- 👋 Hi, I’m HejiKaGH (Alp Hikmet Önde)
-- 👀 I’m interested in Mobil Application Development  
-- 🌱 I’m currently learning Kotlin
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi there I'm Hikmet 👋
+🔭 I’m learn Ethical Hacking
+🖥️
 
 <!---
 HejiKaGH/HejiKaGH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
