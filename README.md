@@ -1,6 +1,6 @@
                                                       Hi there I'm Hikmet 👋
 
-🔭 I’m learn Ethical Hacking
+🔭 I’m learn Mobil Application Development 
 
 🖥️
 
