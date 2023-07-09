@@ -1,6 +1,6 @@
                                                       Hi there I'm Hikmet 👋
 
-🔭 I’m learning Full-Stack Web Development  
+🔭 I’m learning Mobile App Development  
 
 💻
 
