@@ -1,8 +1,8 @@
                                                       Hi there I'm Hikmet 👋
 
-🔭 I’m learning Devops
+🔭 I’m Web Site Desinger & Shopify Themes Desinger
 
-💻
+
 
 
 
